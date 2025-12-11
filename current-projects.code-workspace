@@ -1,0 +1,7 @@
+{
+  "folders": [
+    { "name": "CENG443-Final-Project-NM-Sparse-Kernels", "path": "." },
+    { "name": "SparTA", "path": "../SparTA" }
+  ],
+  "settings": {}
+}

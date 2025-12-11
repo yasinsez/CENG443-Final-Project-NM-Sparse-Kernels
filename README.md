@@ -16,6 +16,11 @@ Triton re-implementation of the CUDA C++ kernels from the target paper. This rep
 3. Upgrade pip (optional but recommended): `pip install --upgrade pip`
 4. Install deps: `pip install -r requirements.txt`
 
+## Workspace file
+- Multi-root workspace file: `current-projects.code-workspace`
+- Included folders: CENG443-Final-Project-NM-Sparse-Kernels, SparTA
+- Open via VS Code/Cursor: File → Open Workspace from File… and select the file
+
 ## Notebook workflow
 - Open `notebooks/triton_kernel_starter.ipynb` in JupyterLab/VS Code.
 - If CUDA is unavailable locally, the Triton cells will be skipped—focus on editing kernel logic and push to a GPU-enabled machine for validation.
